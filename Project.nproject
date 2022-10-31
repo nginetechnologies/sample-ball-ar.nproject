@@ -1,0 +1,39 @@
+{
+    "name": "BallAR",
+    "guid": "a80d52de-f5d4-4829-b5cb-2286ddbd19bd",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "EAF8C037-4ADF-4A97-99FD-915341D1854C",
+        "B7921721-4029-47CE-873C-5D356D604AA9",
+        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid": "ec2f2425-2eab-4c94-890d-ee0ad056e2e3",
+    "default_scene": "6e0db5e9-90af-4e27-adbd-b1da41650a08",
+    "source": "Project.nproject",
+    "settings": {
+        "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "6ffe9422-1802-53b5-b3a4-ccfcc7dbf9cb"
+        },
+        "18FCF6AA-0531-4A74-9B39-583E0CDA7FD7": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "9052fa57-84df-4984-854d-686f1ad516af"
+        },
+        "935C5DF9-2837-46FE-9F40-2328787F601B": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "b2cd781e-fcee-3545-1ef6-817b5ff17c36"
+        },
+        "FC43DCCC-A186-407D-99A7-44A6CDF8B7B2": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "1f64eceb-d54a-ec1e-4c25-e37d666bd43a"
+        },
+        "30626C44-8263-456E-AB68-94EEB4774C06": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "C85B33E2-CC94-47EF-8553-9948BD3845C4"
+        }
+    }
+}
