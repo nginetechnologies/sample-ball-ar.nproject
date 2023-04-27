@@ -3414,32 +3414,6 @@
             ]
         },
         {
-            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -52.0,
-                    -37.0,
-                    2.0
-                ],
-				"rotation": [ 0, 0, 180 ]
-            },
-            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "ec66ce19-1e67-478b-a8e6-07b9cf74df4c"
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-                    "mask": [
-                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
-                    ]
-                },
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
-                }
-            ]
-        },
-        {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
             "instanceGuid": "580323ef-65fc-97d6-42d3-293b8bd5d2d9",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
