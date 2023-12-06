@@ -1,6 +1,7 @@
 {
     "name": "BallAR",
-    "guid": "a80d52de-f5d4-4829-b5cb-2286ddbd19bd",
+    "guid": "69cf35b8-777a-4cf3-8327-e58179e835af",
+    "database_guid": "0c7ce106-b1a0-f6bc-0080-a48dd7b49614",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +13,8 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "ec2f2425-2eab-4c94-890d-ee0ad056e2e3",
-    "default_scene": "6e0db5e9-90af-4e27-adbd-b1da41650a08",
+    "default_scene": "724801f0-212c-4ef9-8bff-c0f7d6648ef0",
+    "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Project.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {

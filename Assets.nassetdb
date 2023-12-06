@@ -1,1425 +1,263 @@
 {
-    "0189facb-9813-b927-e4bf-59777b6cabd8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Buzzy_EnviroDiffuse.tex.nasset"
+    "0c7ce106-b1a0-f6bc-0080-a48dd7b49614": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
     },
-    "0293e175-7f6a-079f-1d33-30a1a50b3b2d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Left.mesh.nasset/Helix Quarter Left Main.mesh.nasset",
+    "69cf35b8-777a-4cf3-8327-e58179e835af": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "BallAR",
+        "thumbnail": "ec2f2425-2eab-4c94-890d-ee0ad056e2e3",
         "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
-    "02951cfa-5cec-2873-2235-d9e96087bf35": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave Solid A.mesh.nasset/Wave Solid A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "030f0342-b793-a6e8-b1bf-8fca13717857": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Square.mesh.nasset/End Square.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "0313b3d8-e544-1336-3e02-20440b3af451": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave Solid C.mesh.nasset/Wave Solid C Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "04e267d6-2833-4b8f-36c2-01ecfce25f33": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Main.mtli.nasset"
-    },
-    "05d893bf-06b3-fb98-217b-032daf78669f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend MD.mesh.nasset/Bend MD Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "063a5daa-da48-b9c9-5cb7-b88b31228ffb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Start Solid B.mesh.nasset/Ramp Start Solid B Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0a704376-16bd-104e-b62d-aaf060249b9a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Right LRG.mesh.nasset/sCurve Right LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "0ad0d9fa-4d06-48e2-fa41-5589ee877ed6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Buzzy_EnviroSpecular.tex.nasset"
-    },
-    "0ba6e549-a65d-e477-c726-20430d494ad1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Right.mesh.nasset/Helix Quarter Right Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0bd9cc1e-9a6b-a574-0db2-ffc2bc983445": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve.mesh.nasset/Curve Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "0d6c8a8e-f02d-9bea-b322-097638f81f95": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Secondary.mtli.nasset"
-    },
-    "0e617352-4352-5e2e-a6c6-ee1f691088b5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid A.mesh.nasset/Bump Solid A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "11abe36d-c63c-2e7c-7e84-3526c3f4370f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve LRG.mesh.nasset/Curve LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1482f040-78bd-f662-2c01-8aecc9f101e2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Funnel.mesh.nasset/Funnel Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "152dd847-c9de-8872-1bc9-588cd2750ec1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Cross.mesh.nasset/Cross Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "155ca69d-6007-46bc-8725-e447c01b51eb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave Solid C.mesh.nasset/Wave Solid C Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "16724da4-84d7-7e43-e8cd-0b1d218df7cd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump C.mesh.nasset/Bump C.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "17096fb1-3d8b-eae4-1ae2-de0d23707934": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Rounded.mesh.nasset/End Rounded.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "1a97371b-733d-fc41-6a2b-7354a97e4d10": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Left.mesh.nasset/Helix Half Left Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1adf139e-7d42-b206-e25d-2153cb5ec18d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave C.mesh.nasset/Wave C Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1d5638b4-b48f-c3b6-9dae-fe74ef222b22": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Split.mesh.nasset/Split Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1e5a17b6-1ed7-b10c-ff3b-5f1a508e8cec": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Corner.mesh.nasset/Corner Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "1f321c3d-bbf6-bc8d-977a-59fb2e10c90f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Start Solid B.mesh.nasset/Ramp Start Solid B.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "20b5261c-b5ca-a4f3-a373-d64f436ad7a5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long Solid A.mesh.nasset/Ramp Long Solid A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "21db6b11-532d-2fbb-beb8-097b9eba55c6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump A.mesh.nasset/Bump A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "2452ab33-a046-a184-3337-ac3a607addae": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Right LRG.mesh.nasset/sCurve Right LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "26dae457-95e9-12c6-6d3b-64d345a4cf02": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Right.mesh.nasset/Helix Half Right.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "28418d1a-af95-99a2-7b72-6214240b68e4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Right.mesh.nasset/Helix Half Right Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "2f4194ff-cc25-71e5-5daa-2e70fee7e368": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Right LRG.mesh.nasset/Helix Quarter Right LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "2f8a09ef-9f21-5ce3-d271-d93f5547f713": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left LRG.mesh.nasset/sCurve Left LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "30e275d7-1b46-85ec-fdf3-3ddea3201af4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Left.mesh.nasset/Helix Quarter Left.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "34d20563-29a2-92d6-37c5-4d5ce99d9885": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Support Base.mesh.nasset/Support Base.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "3511ef85-2161-3f0c-fadf-247580df2b87": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid B.mesh.nasset/Bump Solid B Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3a4ad0c5-28ca-e850-139c-997ed0832d99": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Left.mesh.nasset/Helix Half Left Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3ad83f41-5075-efff-a22f-7dbf0c0ad701": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left Short B.mesh.nasset/sCurve Left Short B Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3cd72ea3-0d05-655b-e089-1e0aca66249a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve.mesh.nasset/Curve.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "3d3e65f9-81d0-588f-b2ba-632d9bebb866": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave C.mesh.nasset/Wave C Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3dbe8047-0f09-cdfe-3578-559053f4eada": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Cross.mesh.nasset/Cross Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "3f92fe9d-5c2c-60fd-5c34-1b92eb336b07": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Rounded.mesh.nasset/End Rounded Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "40b31b32-e280-59cc-f5cf-8a68bbe8c857": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Funnel.mesh.nasset/Funnel.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4110d102-72b5-dfe7-c8c0-604420e61c30": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump A.mesh.nasset/Bump A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4163f590-c6db-bf4a-3dfe-14781e733568": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Funnel.mesh.nasset/Funnel Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "43258b2d-4e35-aed7-40aa-2432cb9c32bc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Right.mesh.nasset/Helix Right Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4401b0f9-a0d3-6b84-097b-e95bbefd2aa8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Funnel Long.mesh.nasset/Funnel Long.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4409d97d-0625-01ae-3a06-fc76f9410a0e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Left.mesh.nasset/Helix Left.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "44a4d7bf-7db7-2cb1-b22e-8ad711da5ae8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Left.mesh.nasset/Helix Half Left.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "463c343c-6e8c-3304-a1e9-6b8f6e829945": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Left.mesh.nasset/Helix Quarter Left Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "46a75b4a-5b6f-ec61-f7ff-b18a718a0363": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave A.mesh.nasset/Wave A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "46dde27e-8772-5e86-04ae-259dfca828fc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave Solid A.mesh.nasset/Wave Solid A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "48e6f7a8-d015-1dda-dacb-721c6921287f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve Wide LRG.mesh.nasset/Curve Wide LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4b25c854-b0ac-1dea-a1a5-8c11b26ebaca": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Right.mesh.nasset/Helix Right Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4d6cb59c-30d6-5e31-1346-d72f8a3b2864": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve Wide LRG.mesh.nasset/Curve Wide LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4e083fc6-5fad-10b1-6f63-92fab76b9bf2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Right.mesh.nasset/Helix Half Right Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "4ee646d4-3d0a-8642-7261-292ea8f93184": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave Solid C.mesh.nasset/Wave Solid C.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "4fb1c24f-eb09-a476-6155-e1f93afef3a1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Solid Long C.mesh.nasset/Slant Solid Long C Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "501d2a2e-27af-f4bb-a077-740c471fcb20": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long A.mesh.nasset/Ramp Long A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "548216fd-6b6d-25da-d2e0-92d9707aa912": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Start Solid C.mesh.nasset/Ramp Start Solid C Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "55368f22-5ef7-ece3-3d5c-4652d5eea405": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp End Solid A.mesh.nasset/Ramp End Solid A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "57f1e4c1-6455-ddbd-ce71-6d27e7062625": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Straight Wide Hole.mesh.nasset/Straight Wide Hole Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "59e3ec3c-7d6b-a42f-1f4f-61d4aadf9a98": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Left.mesh.nasset/Helix Left Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5aeb6fd1-127b-880a-1048-2b7bbde417c1": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Long D.mesh.nasset/Slant Long D.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "5d2421b7-003d-1dea-f956-5975e33f548b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Right LRG.mesh.nasset/Helix Right LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "5d7de70a-1b63-ac99-9b3f-ad1a0e0a339f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump C.mesh.nasset/Bump C Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "62819011-a966-b4b9-46b0-ac4c33bd2720": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Corner.mesh.nasset/Corner Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "62d911e4-9ac7-2876-c0b3-e1c044383c42": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Hole Rounded.mesh.nasset/End Hole Rounded Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6396f7ba-7943-fe95-17d8-02f37ee7fdcc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Right.mesh.nasset/sCurve Right.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "640916a0-ab6a-747e-b618-dc3ea2451dae": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long Solid A.mesh.nasset/Ramp Long Solid A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6496e05e-b6c3-1fc3-b014-418895dc0d8f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Straight.mesh.nasset/Straight Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "64a84e95-10b3-d622-0769-51e1593e216b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left.mesh.nasset/sCurve Left Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "66488230-d5ff-be51-4ada-daefb50b32b9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Left LRG.mesh.nasset/Helix Quarter Left LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6673a7bb-5076-4938-3985-a328b4e7a0c0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Long D.mesh.nasset/Slant Long D Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "675e0e81-3afe-a9bf-9886-b01a75581e4e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend Solid LRG.mesh.nasset/Bend Solid LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6893a765-2b44-0699-9270-99d923a8e2ec": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave B.mesh.nasset/Wave B Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "69d533ac-c55a-4429-49ab-8a602d70e848": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid B.mesh.nasset/Bump Solid B.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6a039ee5-6b5c-56eb-1830-6bbfc58c634a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Funnel Long.mesh.nasset/Funnel Long Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6a74da5a-359b-7c15-6782-cfcf394e36bf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Start Solid C.mesh.nasset/Ramp Start Solid C.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "6b74a5ae-a373-c2b6-2eea-14b0fbe47f91": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve LRG.mesh.nasset/Curve LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6bad0a2d-d492-1368-3fdd-32518e30b2b0": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Default.mtli.nasset"
-    },
-    "6d90e637-5a85-875f-2d66-717c799c6adf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long Solid A.mesh.nasset/Ramp Long Solid A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "6e0db5e9-90af-4e27-adbd-b1da41650a08": {
+    "724801f0-212c-4ef9-8bff-c0f7d6648ef0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/BallAR.scene.nasset"
     },
-    "6fb4651f-9745-1a3d-5433-a3baa4be13d7": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Left.mesh.nasset/Helix Left Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "72e955dd-f5d2-c2ab-40b3-577e573812a0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Start Solid C.mesh.nasset/Ramp Start Solid C Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7429af56-d23c-9638-ef3c-6f844a7d9f2a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Split.mesh.nasset/Split Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "74800834-8e90-26df-8ac3-7398842e84e0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump B.mesh.nasset/Bump B Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "77a5b1e4-1703-559d-b1d4-595185cb6dc2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend MD.mesh.nasset/Bend MD.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "784b8d0c-8663-9589-b63d-88fbdadeef2f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Right.mesh.nasset/Helix Right.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "796fe628-4270-90ca-2b3f-50a9363887cd": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Cross.mesh.nasset/Cross.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "79ce7516-6602-eb27-6be1-a3fbb18ccf3d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Left LRG.mesh.nasset/Helix Left LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "7af2dbf5-9fd4-df3a-a15e-11f48d468d51": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave A.mesh.nasset/Wave A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "7d8ab337-6d31-06ea-da8f-2e851b5ee5bf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Split Double.mesh.nasset/Split Double.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "7f8882da-d1c1-21bd-60ae-6e068f9af377": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Solid Long C.mesh.nasset/Slant Solid Long C Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "8041aea9-b2ec-684d-d5d4-a983d6b41d83": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Split Double.mesh.nasset/Split Double Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "81b121c0-d07c-53f8-27ec-ac4a4ccbf608": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long Solid D.mesh.nasset/Ramp Long Solid D.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "8241e0a7-6255-0d14-4dbb-d6b764765431": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Split.mesh.nasset/Split.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "83e369de-101e-d6bf-b932-56fd45e89b7d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve Solid.mesh.nasset/Curve Solid Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "860e7864-04a0-68d7-aecb-5936dbbdcf5c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Right.mesh.nasset/sCurve Right Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "88516152-32d9-a306-71b7-e121d39d6d7b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump B.mesh.nasset/Bump B.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "88d1e4f5-c981-338d-9ea0-49394130fffa": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Split Double.mesh.nasset/Split Double Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "89ca8123-4942-0d70-b3f3-252abfae4252": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Hole Rounded.mesh.nasset/End Hole Rounded Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "8af7f36c-1fbd-8f65-3bfd-4ae6439d1161": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave B.mesh.nasset/Wave B.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "8c345cca-4f9f-6826-414c-799598cb9f83": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp End Solid A.mesh.nasset/Ramp End Solid A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "8d4be50f-e1ac-77ca-dc26-8d5d9cd8d06e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long A.mesh.nasset/Ramp Long A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "8e851b50-0156-9fa3-856c-37dec048bc30": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Straight.mesh.nasset/Straight.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "901a9f46-09fe-2a59-e83c-f465ffb7a159": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave B.mesh.nasset/Wave B Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "90eb49a2-f6d8-3344-43a8-e51f881294d0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend.mesh.nasset/Bend Default.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "93d6bd3b-7297-90c0-7c11-cb79a7967c09": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left Short B.mesh.nasset/sCurve Left Short B.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "94c3db34-677f-583f-c366-a175cde8235d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long Solid D.mesh.nasset/Ramp Long Solid D Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "94c41c92-a494-8786-1cd6-cab87f3dc880": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend MD.mesh.nasset/Bend MD Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9840b4a8-b6bd-94e9-1fa3-5b6f4d4b22b3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Square.mesh.nasset/End Square Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "98e6c505-280c-5f0b-734c-e51fb1c1425e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve LRG.mesh.nasset/Curve LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "99470ddb-7e25-f1bc-cee7-89a15492c76a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Corner.mesh.nasset/Corner Default.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9c9f85d0-b0c6-e0d4-ccdb-e8caa3eb4ae4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid A.mesh.nasset/Bump Solid A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "9ce3af66-a9b5-1317-75fb-d35f872ade59": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Right LRG.mesh.nasset/Helix Quarter Right LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "9e2a793b-8ff7-f993-25ab-f3f4542f5cfb": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Buzzy_EnviroBRDF.tex.nasset"
-    },
-    "9f046967-8b6b-215b-14b2-163ecef98d50": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave Solid A.mesh.nasset/Wave Solid A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a0258ffe-a840-d14a-a699-2338f13142d9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Corner.mesh.nasset/Corner.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "a08e68ca-5877-3e9c-c909-83179b1e53de": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Right.mesh.nasset/sCurve Right Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a3d3efda-3802-eefc-1a4a-41d05705c9a6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend.mesh.nasset/Bend Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a4c6de49-33ee-a41f-e553-e80218d87433": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Left LRG.mesh.nasset/Helix Quarter Left LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a5430d55-d1db-aa49-ede9-6ce0175fabad": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid B.mesh.nasset/Bump Solid B Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a751d02f-56ab-555e-6df4-d62adaadad65": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Left LRG.mesh.nasset/Helix Left LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a80d52de-f5d4-4829-b5cb-2286ddbd19bd": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
-        "path": "Project.nproject",
-        "thumbnail": "ec2f2425-2eab-4c94-890d-ee0ad056e2e3"
-    },
-    "a9de00e0-0fcf-97e9-c8c9-8f8dea386f2f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave A.mesh.nasset/Wave A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "a9ec1a4e-b17c-3176-e00c-375da28e418c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump C.mesh.nasset/Bump C Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ad3c0e01-822a-0c30-7fe6-d7b5bef44aa2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve Solid.mesh.nasset/Curve Solid Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ad7fa6b5-e322-cb8d-6983-9215b71aaf0a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend Solid LRG.mesh.nasset/Bend Solid LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "adf215fb-9d83-5831-5cbc-660f9f798c3b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Solid Long D.mesh.nasset/Slant Solid Long D Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "aeeb0e5f-80ec-b108-578f-0948add2f193": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Solid Long C.mesh.nasset/Slant Solid Long C.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "b1ba3825-4745-4331-faa4-75137c03187d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left.mesh.nasset/sCurve Left.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "b3134816-7e30-a128-99a1-29f25e530e4f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Square.mesh.nasset/End Square Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b5a80fa1-64d1-4583-7898-d322d8c29dd9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend.mesh.nasset/Bend Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "b5fc75e1-ced5-8f9e-af33-d7a8220616d2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Support Base.mesh.nasset/Support Base Support.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ba629ad5-5d17-858a-1a5d-6cb47b42f0ac": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long Solid D.mesh.nasset/Ramp Long Solid D Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "bb37628a-e3bf-e5f6-f5b9-6d6cc2a451c9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Straight Wide Hole.mesh.nasset/Straight Wide Hole.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "bd06a513-0185-8433-a74b-3618b6bdbc46": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Right LRG.mesh.nasset/sCurve Right LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "bec26131-a4ad-408f-1294-d3910447ee23": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Hole Rounded.mesh.nasset/End Hole Rounded.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c01b72e4-e549-e507-a172-7e83361014b3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Solid Long D.mesh.nasset/Slant Solid Long D.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c23b1a2a-861c-d3a6-e0f0-a83ee173c76d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Straight.mesh.nasset/Straight Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c27cb384-8f3d-30c6-5b89-319cae97bd0f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Right.mesh.nasset/Helix Quarter Right.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "c33c9992-5464-3fd8-6bed-dfffbab2fce2": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Solid Long D.mesh.nasset/Slant Solid Long D Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c589ecef-ba03-5931-d2fe-e505b4b4cafc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Support.mesh.nasset/Support Support.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c725d502-293c-1b5d-5bac-746b3038b781": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/End Rounded.mesh.nasset/End Rounded Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c962bad9-3d7a-8bb1-7247-dee9251bcdda": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Long A.mesh.nasset/Ramp Long A Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "c9863caf-6483-6dbe-bda8-9fa796f153b0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Right LRG.mesh.nasset/Helix Half Right LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ca7816e0-7d9f-8b93-14c9-aca514575ac8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Right.mesh.nasset/Helix Quarter Right Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "cb5e0a8a-4fc3-db85-e065-c89485274c34": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left Short B.mesh.nasset/sCurve Left Short B Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "cc2689c0-a36a-333f-54fb-f1eb2bedd660": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Buzzy_Enviro.tex.nasset"
-    },
-    "cec881ca-1d15-d61b-c11b-8f46a6441894": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Left LRG.mesh.nasset/Helix Quarter Left LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "d09ae7b2-f091-7b62-e03d-63312e11d7df": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Left LRG.mesh.nasset/Helix Left LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "d180f941-ed44-b3a2-8177-b586ff13de0a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend LRG.mesh.nasset/Bend LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d687c6c4-6776-753d-b559-f44a5187ef4f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Quarter Right LRG.mesh.nasset/Helix Quarter Right LRG Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "d711805d-4b8b-50df-03db-bc609cd36dfc": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend Solid LRG.mesh.nasset/Bend Solid LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "d8ccaddb-c5fe-8a6a-4241-1c5c6f856a9c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve.mesh.nasset/Curve Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "da08105e-05fa-37e9-e0d9-a1062a9d923a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid C.mesh.nasset/Bump Solid C Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "da133903-140d-a179-8edf-9aa97589ebc6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Wave C.mesh.nasset/Wave C.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "dc26fffa-ef3e-d1fd-7e4f-3bb7e8d0cc55": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve Solid.mesh.nasset/Curve Solid.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e04b114c-c994-e5f1-0943-527a8d1174fb": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left LRG.mesh.nasset/sCurve Left LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e23a26e4-5ae6-ac66-7944-232e78764b77": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Curve Wide LRG.mesh.nasset/Curve Wide LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e260b460-cee1-4c98-fd7c-18a30d63e142": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Support.mesh.nasset/Support.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e31434c5-9019-3b71-b0f7-f934a795375f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend LRG.mesh.nasset/Bend LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e3a4c978-a608-84d2-2730-1dc74d16674d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid A.mesh.nasset/Bump Solid A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e4731025-eb87-fd40-8a20-c8042ee05d50": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Right LRG.mesh.nasset/Helix Right LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e48d5dc0-0ed3-5eae-01eb-16b87ca303cf": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid C.mesh.nasset/Bump Solid C.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "e523e29f-487d-c15b-bf13-bee6fb67f773": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend LRG.mesh.nasset/Bend LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e684c852-036c-eb0b-bc5c-8e81fdc373ae": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Track/Material Instances/Support.mtli.nasset"
-    },
-    "e8e1fd7c-16b2-b413-f5b6-5d9c61401ef9": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Right LRG.mesh.nasset/Helix Right LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "e958defb-206e-3de8-81a5-3dce229a85e8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp Start Solid B.mesh.nasset/Ramp Start Solid B Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "eafbfea2-7801-24e9-7393-fb759698a30b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bend.mesh.nasset/Bend.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "ebb3bb4f-a131-b35c-2589-1d587f34071f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump Solid C.mesh.nasset/Bump Solid C Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ec2f2425-2eab-4c94-890d-ee0ad056e2e3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Ball_AR_Thumb.tex.nasset"
-    },
-    "f5d3b0a4-6ad5-2d63-47d4-32bc39baf7b3": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Slant Long D.mesh.nasset/Slant Long D Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "f7e16215-662e-eb1b-408d-3507fb7af929": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left.mesh.nasset/sCurve Left Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "f8bbd320-acdd-a06c-807f-e67b9feb1443": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Funnel Long.mesh.nasset/Funnel Long Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "f994f5d1-1eee-1cad-1ab8-bdaac6970a6b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Ramp End Solid A.mesh.nasset/Ramp End Solid A.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "fa426335-e210-e614-b5a9-71ea39f7c54c": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/sCurve Left LRG.mesh.nasset/sCurve Left LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "fc419012-762b-4d62-94a8-e0391325ad54": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Player.physmat.nasset"
-    },
-    "fd9a0896-e2c9-b01d-67b6-c36ce1433d42": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump A.mesh.nasset/Bump A Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fea25495-e87f-88d7-e9f8-ae245672453b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Right LRG.mesh.nasset/Helix Half Right LRG Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fefa9779-47b3-a014-139e-83f71b4a1556": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Helix Half Right LRG.mesh.nasset/Helix Half Right LRG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
-    },
-    "ff0ed90a-caa6-89bd-4af2-d34156bacb90": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/SC_Ball_Track.scene.nasset"
-    },
-    "ff15f2dc-5df3-524c-df04-bf6a07592d6e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Straight Wide Hole.mesh.nasset/Straight Wide Hole Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "fff1d674-720d-7a3c-57b3-7f84c4c18367": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Track/SC_Ball_Track.scene.nasset/Bump B.mesh.nasset/Bump B Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    }
+    "guid": "0c7ce106-b1a0-f6bc-0080-a48dd7b49614",
+    "imported_assets": [
+        "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
+        "d9fa4ff1-8968-23db-8e67-77642cb4d88e",
+        "3ab745aa-6a7d-608d-321a-60e00705f78f",
+        "01e7b0c7-9a70-bde4-ef15-d808759e27f7",
+        "023681d3-3752-e456-4d0c-fbc58587ae30",
+        "02fb5fe7-43c4-d223-913d-8faa7f531521",
+        "048ef979-8e38-7646-10e0-6bb5dcd2b6a6",
+        "049949b1-a863-1de8-355e-61acf81f60e7",
+        "05bebf9f-6576-83d6-f208-128850e0fa8d",
+        "05d96d8d-ed1b-d82a-5be8-ee1fb4357b2d",
+        "06175cd9-2a63-1d5b-50c4-9c5d5660fc0f",
+        "06f81766-b18f-ed6c-1789-b427d54ec333",
+        "07092485-4a30-6afb-0bf3-2755ccb3f344",
+        "08f677dd-18d2-4f4c-e014-2030b3ca33ad",
+        "0a96b231-9605-d401-8503-a40dd42311d8",
+        "0bcc1d74-d809-cecf-ef70-0e440c0ba6f4",
+        "0be9d32d-9544-754b-624f-721212454381",
+        "0c9818f2-7af7-cd18-b5c6-22072e3e59ad",
+        "0de4a72f-0193-d5c9-0684-a52210f2585e",
+        "0e2b52b6-912b-6720-3e88-09a79ca1262f",
+        "0eeda487-e02f-dc9e-cb42-1f1482a8df53",
+        "0efe0ac6-7385-d6a0-3737-4de0b9ece8ac",
+        "12e65692-6dfc-822a-0969-f8af1db79ba0",
+        "140a9703-1ccd-73e7-7a39-1b2c0a4ffe0d",
+        "14fa69bd-477c-fcb4-c49b-720f76c8b50b",
+        "15037069-b879-b919-7185-c1607acd66e7",
+        "15906fa7-7646-6c34-9bc5-150bd626d56b",
+        "16f5b7b8-eb93-a9a4-a503-d52f478bd68c",
+        "180a7185-88de-1004-2502-23c8738dc206",
+        "196168f4-3fd7-2c1c-bf63-f3fa118d5cae",
+        "1e18adc5-b50f-c254-c76e-ae197c1b838b",
+        "1f97c310-6198-c630-bb79-ad9123d01024",
+        "1fe0d388-b2c1-a962-717d-21ee2face47b",
+        "20f40c8b-62d9-622a-e098-95669cea7f58",
+        "2183e3a3-4ecb-0fc1-0252-99f8ffb9e045",
+        "22a7c0e4-0897-92a5-94f8-1807099ef21c",
+        "2397efec-cf91-174e-d7cb-80170c6e6d4e",
+        "23afa7fc-c40a-9e72-5006-8d7b49745101",
+        "2c7d6fca-ae2a-be2c-86a8-6e6d0dbc658b",
+        "2cca024b-d862-26d3-8620-d6ccf0525b9a",
+        "2efa3e60-65e9-b430-ce60-7113b8339a1a",
+        "2f36529a-7a95-9cf2-9911-4650c975973a",
+        "2f3b0961-355b-384c-bdce-00c98b841e1d",
+        "2f7b1d17-8d37-c1e1-bf2c-3dccff57a60d",
+        "2fc1d3f0-f41e-44a9-89dd-97b1ff3b3986",
+        "310532e0-93b6-8968-95ae-eda737f3d8f1",
+        "32827cf7-d8ad-c940-adc8-1e646d977ce3",
+        "333bf451-09d9-af80-d71f-4430d90bddac",
+        "335a9946-bfc4-835d-1922-33d5161fbede",
+        "350036b5-4da2-df1a-cd9a-aacad9faf3a4",
+        "354b3796-0cfd-73d4-0480-617082dc9389",
+        "356c104e-f70b-f8fc-5400-0333f812196d",
+        "35a02713-eddc-d4e4-eaf7-ca78a74382ee",
+        "36644578-ae5c-03e7-aa98-be47febde9da",
+        "371652b7-9fd4-f965-737c-62f809fe0610",
+        "3928e6ed-a61e-ab53-8451-04a3920dfb59",
+        "3a6dbca3-83fc-b5cc-e4bc-8bc0be8042f4",
+        "3a8af2f7-82f1-2d3e-3acb-b5b79529f442",
+        "3de593a5-392c-cd81-8756-b1fe90fc52d3",
+        "3e1acebc-8f28-b237-368a-eaedba3b713e",
+        "3e4f9550-48d0-1783-a267-5486b3859364",
+        "3e71361f-2caf-58cd-6252-6b118197f489",
+        "3f08118f-852a-e561-9ae2-d61831199583",
+        "3f3cd136-7859-f4c9-3002-a6859bda8771",
+        "3fae8617-d97c-58d6-5cf3-83254ae0be58",
+        "408c73ed-162b-9fc9-2578-9506168ceb34",
+        "41b6e5a9-4152-59b5-a752-9cabc5feff4a",
+        "45b7311c-eb56-67d0-046f-b1fb01d6a180",
+        "45ccf35d-32b2-cd75-f2ba-bd7bff5658d1",
+        "482f39c4-4d67-1980-1133-06cdb1b0158f",
+        "4870d11e-898c-134c-7dec-0557995e237c",
+        "48aaefb1-2c83-3cbb-0676-04dba6b1fe2d",
+        "49267639-c98d-f252-cca3-cdf131234aed",
+        "4a8448fe-bc8d-28e0-6a3a-49b89d8fd479",
+        "4ab925c8-bad6-a832-a892-56907c374eb5",
+        "4c90ad47-4853-3282-6b4c-8eb0c772b41f",
+        "4cb9c847-30a9-01d0-673d-4b6b96f0200b",
+        "4cd42527-1e3b-259e-9edf-865efe028447",
+        "4cfd9ed2-370f-b6d8-1213-80a13b016c5f",
+        "4d6ee6f3-6fe3-67bd-516a-3874dfbd91e7",
+        "4fcbe515-a99b-1151-5b53-2015a461bac1",
+        "5112f5e5-28c8-295e-132f-a58d2031e636",
+        "51329697-6748-a3f1-8192-2d0ba1a0b81e",
+        "559a5516-8a84-a096-233d-5be3a02967a9",
+        "56dfc0b5-d6f5-ebfc-a6ec-bc07343b81f4",
+        "5742de7f-1b4e-ae29-fb51-448b01087926",
+        "597f7ae1-a905-d874-0f0e-4cac3b9e3662",
+        "59a766bd-c69e-abd1-5937-9ee1ff116f6d",
+        "5ca8e408-0b75-5f61-c768-64e5f21d86d2",
+        "60164dfd-89d9-cfce-6590-fdfa969b2f70",
+        "6029dfb6-a3c1-0ef7-bb24-178e9e545c8f",
+        "61eb92d3-14ef-de30-63e9-fd41d7ccc718",
+        "63eff2a8-6e45-8bf4-6a24-5d4007ca9493",
+        "645538b6-49c9-2f5f-2939-36da1ae7df7b",
+        "64c37f4b-4960-a853-a4c3-85c9cb7f8455",
+        "6593325f-f582-5786-32e8-bb65e3a69899",
+        "67a6a1fb-88ad-7df3-5da4-7fe2bfe65ebf",
+        "68d20951-8fb1-87c2-b71e-618d92df53d6",
+        "69ece5d7-c021-fef4-847c-035743db8073",
+        "6a678662-8b14-a7dd-a52f-7e9af928608a",
+        "6c4f5207-b097-3a6c-2595-b5732d621a5f",
+        "6ce8fb93-5a77-e919-250b-e00dd2e997a5",
+        "6e258486-9ae9-483a-d0a4-c485cda41d93",
+        "6e52d570-5f8b-cba1-bce0-f5ffa6319d59",
+        "6e8b5b53-f847-4743-0d24-db1797d052ff",
+        "6f93bc6c-8492-6c34-c024-d7528eea6dbe",
+        "71eb01f3-7c6d-ecdd-5859-2167a8c5c13d",
+        "722ed8e4-5135-886f-2a4f-617792a1b24e",
+        "7611ebf5-40f9-e4a9-9d28-5a39bfd171a3",
+        "762c804c-aace-b87c-6775-181947a7b75d",
+        "76567b57-6f8f-5aeb-0880-38924154cd3a",
+        "788144cb-4788-7135-1fd6-43ab192b30a1",
+        "78bbc759-665b-4e4c-b690-a09e42c25adf",
+        "7a8f5fa3-d467-bc6f-9114-fcd053aeda87",
+        "7d02cdad-1efe-f651-e238-a6da33d73708",
+        "7ea6be10-1038-72bf-ec65-8d94856de75a",
+        "81327404-885c-f076-4b94-e3b3b717c6da",
+        "8151b5b8-ac75-327f-ea65-c462889c8dc7",
+        "82107f47-610c-dc67-f89b-21143595bd1a",
+        "836416d3-e8f5-5231-49de-1c098b5e0857",
+        "85209c48-1a72-c12e-147c-420dcb56c098",
+        "855b43f0-253e-908d-9d01-16899eea1511",
+        "8622f1f8-fb5c-8ff3-49e5-69da60782922",
+        "87cc9e67-821e-1bbb-834f-e3b3101b0f78",
+        "88c53a93-2428-063a-a42a-502cdec452a9",
+        "89a5fcb7-3f1c-f4b1-03e0-f016be6365c5",
+        "89bb60cc-5595-2271-8264-581b350bf680",
+        "8b65afcd-68d4-e95f-c345-8d78b4ec0f66",
+        "8bb28444-b06b-1590-92c1-f9c8e5047d02",
+        "8bbeae3d-9f40-72cf-a427-edd10bc77cee",
+        "8c86a3eb-9e07-3370-b1da-1eddbbddff67",
+        "8e0c3ebc-10be-6ac7-1579-ed804e0fdd22",
+        "8f3d413d-c5f8-60a5-5da0-d1cbd716ea9f",
+        "8f86f2ae-d3f2-625f-c13f-61e6d5b9ac6a",
+        "8fe28352-2887-5cbb-a286-295a95f15cec",
+        "903400a0-1200-d800-72e1-8128a1b8d2b6",
+        "91167c05-0b07-75fd-71fd-44fa258d9904",
+        "918fce0d-3848-eda2-bb5c-4bf93c7b6afe",
+        "91aeb9c1-088f-eeb5-e124-3479f7a1eb3f",
+        "948690cc-9bfb-bcaa-7fba-fc1eeb6b4eaa",
+        "94a4f67f-2546-0854-e6c2-a38a9b940d91",
+        "9574141f-2ed2-2337-8074-958ca0c551b7",
+        "957f5d31-a4ea-6aa2-5bf2-de387395560e",
+        "95bd1e54-a508-1a05-bb79-e34a0c177c5f",
+        "9955ecec-03d9-f342-cc7c-e976405463b3",
+        "99e3d5bf-f7b2-ca46-dccc-979298c7d251",
+        "9badb6c2-4f5d-7b68-29df-399c25b19db8",
+        "9cf05fad-1ea4-c8c4-cd21-b24698ab3be6",
+        "a02faf4f-8ee6-c83d-946a-bcc0207dd20f",
+        "a0a75142-f16e-58ea-2a7e-2204a181a4f5",
+        "a3916baf-a2ed-fcb5-a7e9-cc62205e579f",
+        "a4f5ae6e-a6aa-ac55-aee3-6149746ad66b",
+        "a554d4bd-a63e-40dc-a1c5-99767e48df36",
+        "a58227dc-d80f-5427-cfd8-620a66b0ad4b",
+        "a6293f7c-08af-ee68-2d8d-bf1f8dd16a89",
+        "a68058e3-f772-b7e8-0d10-66cd82e85207",
+        "a6b7f922-19ca-4c6a-8f2d-d7ac278d210e",
+        "a72cd772-9701-9cb6-bc5c-62956b5678ad",
+        "a934a9ff-518d-cabe-0e77-1954b4e56941",
+        "a974b7e1-bab5-0960-face-9569c881f9d1",
+        "ab7b4732-78b6-84ab-c044-72d311a44a21",
+        "ab88c832-8a6d-4099-eb96-c0ef1c8b2979",
+        "abd33a5d-b01a-2c7b-ce29-a67ad23ad1ba",
+        "af3fd5ce-70b0-ecfd-bdf6-3f7fba86610c",
+        "b1363c27-f53d-76b0-7566-100338344f6b",
+        "b221e5cb-48cd-6e87-2fcb-52fc9660a548",
+        "b24a390f-ee76-dd81-7468-4f0e6c3fc5d7",
+        "b31f3be8-fb39-3ddc-24d4-0bc59243774a",
+        "b31f74ac-49db-9118-da15-e4f5db14f474",
+        "b35a6f47-21cf-e2d9-f984-52a9b513f613",
+        "b41766b5-d30b-19ae-4d50-4d3e4a0f8e12",
+        "b41b97af-8f35-ecf8-d2c9-fe80b185aee6",
+        "b439723c-bc7c-21a5-4b64-580cc0235c2c",
+        "b47db437-e87b-cc10-2398-b8280d7a9c94",
+        "b4934fab-e84d-1ce9-f4cd-bbc883750562",
+        "b5a10eda-3713-565f-5b82-187ab4824c28",
+        "b5f4caa7-a85c-37d2-88e6-77d3f87f6b84",
+        "b8117edf-3075-c9c9-6aae-e46b6e5e5628",
+        "badc39d9-a23f-4e2f-2f03-595000329a0a",
+        "bb1afc7d-67a0-e665-6904-2f58cc309e49",
+        "bbde0ace-8a7b-d8b7-cb8a-3b5467f5fbe7",
+        "bbe8c12d-eba7-bfd8-5621-8e6f7d956e97",
+        "c231a8ea-12eb-f6cb-eefb-b8516227568e",
+        "c283c8b8-d6e9-b3bd-d07f-a3bac3a526ca",
+        "c3667cf1-916b-3025-f82e-6fb9d1c9a4dc",
+        "c4f6c1d1-6337-122b-f6d1-ad613cc7b39f",
+        "c53f4f2f-e96e-776c-8e76-313d4091e262",
+        "c6cf372e-d3fe-d84e-7d31-770599115f01",
+        "c8282016-c1a8-050d-f618-6ecebdd82deb",
+        "c84dfdb6-c344-7230-c7aa-d75fc4d4d967",
+        "c878ea27-0936-9b1b-d8a2-6166e8d14fc4",
+        "caf60e39-00cd-6182-3356-c191d6466102",
+        "ce13a4f3-3343-4dd6-0972-2627c6450aca",
+        "cec1d55b-f06f-f1e1-b21f-c457679b142b",
+        "ced836e3-c044-6a37-caac-63658adf8f2a",
+        "d0c5867e-4571-a2d5-8e25-c63a7a393798",
+        "d1c7d04f-78b8-2364-9748-f77eda3adf4d",
+        "d3f5c4f2-a02a-88de-944f-9f2537c6a28e",
+        "d44710ab-c27b-3b0d-6e41-ae677a109b51",
+        "d54214ec-3a12-5d1f-f956-d62c7c9a3554",
+        "d5464e60-2fa1-c624-b71e-db58fa88e36c",
+        "d662990b-dc4f-3792-397d-054c51ed4b7d",
+        "d6a27ec5-26ea-5c4b-88a7-0451a19076ba",
+        "d72ed2c3-8b3e-d94c-6489-c8971f563bec",
+        "d752223f-7904-2f0c-3a68-5eb3e55d428d",
+        "d81ede9b-a61d-8828-fcc5-0468b723a94d",
+        "d855b49a-4e4b-3285-37c6-1f0f713d981a",
+        "d862d4c5-777e-0a88-58ee-c3213a0ab8e2",
+        "daeaab9d-0748-352d-73a1-7480e60b3896",
+        "db1e9b90-a3b3-cabe-1f85-86bcf36347da",
+        "db62794a-91a6-b088-29e1-61a217f3d9a5",
+        "dc0ed991-0650-2d7b-a61e-a2c98fc10353",
+        "ddb5e0ec-c05b-7f77-81d2-cfa8266b8c11",
+        "de92eaef-3be5-7ec9-7088-4e0091e419c2",
+        "deac8f87-e3f7-dabd-04a9-27a441acf843",
+        "dfd75922-001e-533e-6276-d05c1d409e09",
+        "e07aabf5-c32a-7466-053c-a845726ab49c",
+        "e210c117-88d2-b812-cb8c-935ebc30331f",
+        "e5af23c3-7716-161f-e6df-3d5414163232",
+        "e6b5829b-8351-cc89-2b1b-41ce6a54222c",
+        "e784f789-aab4-1987-d3de-5608ec7af334",
+        "e8b3b40f-fd5f-e781-5959-3b31b38333fa",
+        "e8ef1687-2f4c-01ea-11bf-7e7937eb5097",
+        "ea9ae0b3-691a-176d-6db7-a0955d1dde9e",
+        "ec2f2425-2eab-4c94-890d-ee0ad056e2e3",
+        "ec6fbe66-09eb-35a7-bd32-188a9b72aed6",
+        "ef9e812f-b73b-3aef-0fb3-8114c02e1e1b",
+        "f1e68a77-79f7-9e0e-b0fd-7548648f7f2d",
+        "f34b1ecd-ef66-f22f-e690-0d87a209201d",
+        "f36532fb-4396-cf32-7ecf-116dee2b0c27",
+        "f4383ea3-fc17-f4f8-e220-5c2933ab8a7b",
+        "f5bd6244-1e71-8e6a-9638-3be37fb86777",
+        "f5f95376-d79e-985d-af07-3a98968f329a",
+        "f79f837a-10e5-f5fa-8333-ee9a337ad4e3",
+        "f7cb1d66-c99e-f001-cfbf-aa5914df31cb",
+        "f9575f77-5032-e687-dcd0-35112aabdb76",
+        "fa493f44-5d39-22fd-ce05-66d12194c978",
+        "fb6b7d99-3adf-87ee-318b-f6a0469ec076",
+        "fe1ecaf4-a103-ea71-61d7-437f8552d3b6",
+        "febea97d-e8f7-7c76-792a-191dcc033e2d"
+    ]
 }
